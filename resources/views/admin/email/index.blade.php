@@ -1,0 +1,1 @@
+<p><a href="{{route('admin.email')}}">Enviar E-mail</a></p>
